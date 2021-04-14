@@ -5,6 +5,12 @@
 A Software Engineer specializing in .Net and Azure ecosystem. Professional experience with the technologies listed in the **toolbox** below.
 
 ---
+🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="Dotnet logo" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="Dotnet logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Dotnet logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Dotnet logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Dotnet logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Dotnet logo" width="50" height="50"/>
+
+
 
 
 
