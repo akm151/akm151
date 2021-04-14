@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Aman Kumar!
-
+![Twitter Follow](https://img.shields.io/twitter/follow/amankr31?label=Follow%20&style=social)
 <!--
 **akm151/akm151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
